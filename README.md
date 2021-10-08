@@ -1,1 +1,1 @@
-# google-patent-scraper
+# Google Patent Scraper
